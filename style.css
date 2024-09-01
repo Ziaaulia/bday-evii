@@ -87,8 +87,8 @@ h1 {
   color: rgb(230, 221, 221);
 }
 h2 {
-  position: absolute;
-  top: 70%;
+  position: center;
+  top: 65%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 40px;
